@@ -538,14 +538,14 @@ Here's one:
 
 Code block
 ==========
-.. code-block:: C#    
+.. code:: C#    
     //showing modal
     ModalController.Intance.Show();
 
     //hide modal
     ModalController.Intance.Hide();
     
-.. code-block:: python
+.. code:: python
    def some_function():
        interesting = False
        print 'This line is highlighted.'
